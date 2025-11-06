@@ -1,0 +1,11 @@
+Number of APs: 5
+
+AP Name                           Slots  AP Model              Ethernet MAC     Location         Country   IP Address        State
+-------------------------------   -----  --------------------  ----------------  ----------------  --------  ----------------  ------
+AP01-Lobby                        2      AIR-AP3802I-B-K9      64:16:7F:AA:BB:01  HQ-Lobby         CA        10.10.1.11        Registered
+AP02-Office                       2      AIR-AP2802I-B-K9      64:16:7F:AA:BB:02  HQ-Office        CA        10.10.1.12        Registered
+AP03-Lab                          2      AIR-AP3802I-B-K9      64:16:7F:AA:BB:03  HQ-Lab           CA        10.10.1.13        Registered
+AP04-ConfRoom                     2      AIR-AP1562E-B-K9      64:16:7F:AA:BB:04  HQ-ConfRoom      CA        10.10.1.14        Registered
+AP05-Warehouse                    2      AIR-AP2802I-B-K9      64:16:7F:AA:BB:05  Warehouse        CA        10.10.1.15        Registered
+EOF
+
