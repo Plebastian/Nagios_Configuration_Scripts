@@ -1,0 +1,11 @@
+Name,MAC address,Cloud ID,Status,Local IP,Connectivity (UTC-5) ,Configuration source,Status
+SW-LOCATION-MS225-01,00:3d:4e961f:01,####-####-####-####,online,10.36.0.1,"1762000009000, 1",Cloud,Complete
+SW-LOCATION-MS225-02,00:3d:4e961f:02,####-####-####-####,dormant,10.36.0.2,"1762000009000, 2",Cloud,Complete
+SW-LOCATION-MS225-03,00:3d:4e961f:03,####-####-####-####,offline,10.36.0.3,"1762000009000, 3",Cloud,Complete
+SW-LOCATION-MS225-04,00:3d:4e961f:04,####-####-####-####,online,10.36.0.4,"1762000009000, 4",Cloud,Complete
+SW-LOCATION-MS225-05,00:3d:4e961f:05,####-####-####-####,online,10.36.0.5,"1762000009000, 5",Cloud,Complete
+SW-LOCATION-MS225-06,00:3d:4e961f:06,####-####-####-####,offline,10.36.0.6,"1762000009000, 6",Cloud,Complete
+SW-LOCATION-MS225-07,00:3d:4e961f:07,####-####-####-####,online,10.36.0.7,"1762000009000, 7",Cloud,Complete
+SW-LOCATION-MS225-08,00:3d:4e961f:08,####-####-####-####,dormant,10.36.0.8,"1762000009000, 8",Cloud,Complete
+SW-LOCATION-MS225-09,00:3d:4e961f:09,####-####-####-####,online,10.36.0.9,"1762000009000, 9",Cloud,Complete
+SW-LOCATION-MS225-10,00:3d:4e961f:10,####-####-####-####,online,10.36.0.10,"1762000009000, 10",Cloud,Complete
